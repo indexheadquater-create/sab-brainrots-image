@@ -1,0 +1,358 @@
+TITLE=CURSED
+REQUIRES=176
+RARITY=COMMON
+Noobini Pizzanini
+Lirilì Larilà
+Tim Cheese
+Fluriflura
+Talpa Di Fero
+Svinina Bombardino
+Noobini Santanini
+Raccooni Jandelini
+Pipi Kiwi
+Tartaragno
+Pipi Corni
+RARITY=RARE
+Trippi Troppi
+Gangster Footera
+Bandito Bobritto
+Boneca Ambalabu
+Cacto Hipopotamo
+Ta Ta Ta Ta Sahur
+Cupcake Koala
+Tric Trac Baraboom
+Frogo Elfo
+Pipi Avocado
+Pinealotto Fruttarino
+RARITY=EPIC
+Cappuccino Assassino
+Bandito Axolito
+Brr Brr Patapim
+Avocadini Antilopini
+Trulimero Trulicina
+Bambini Crostini
+Malame Amarele
+Bananita Dolphinita
+Perochello Lemonchello
+Brri Brri Bicus Dicus Bombicus
+Avocadini Guffo
+Ti Ti Ti Sahur
+Mangolini Parrocini
+Frogato Pirato
+Salamino Penguino
+Doi Doi Do
+Penguin Tree
+Wombo Rollo
+Penguino Cocosino
+Mummio Rappitto
+RARITY=LEGENDARY
+Burbaloni Loliloli
+Chimpanzini Bananini
+Tirilikalika Tirilikalako
+Ballerina Cappuccina
+Chef Crabracadabra
+Lionel Cactuseli
+Glorbo Fruttodrillo
+Quivioli Ameleonni
+Clickerino Crabo
+Blueberrinni Octopusini
+Caramello Filtrello
+Pipi Potato
+Strawberrelli Flamingelli
+Cocosini Mama
+Pandaccini Bananini
+Quackula
+Pi Pi Watermelon
+Signore Carapace
+Sigma Boy
+Chocco Bunny
+Puffaball
+Sigma Girl
+Sealo Regalo
+Buho de Fuego
+RARITY=MYTHIC
+Frigo Camelo
+Orangutini Ananassini
+Rhino Toasterino
+Bombardiro Crocodilo
+Brutto Gialutto
+Spioniro Golubiro
+Bombombini Gusini
+Zibra Zubra Zibralini
+Tigrilini Watermelini
+Avocadorilla
+Cavallo Virtuoso
+Gorillo Subwoofero
+Gorillo Watermelondrillo
+Stoppo Luminino
+Tob Tobi Tobi
+Lerulerulerule
+Ganganzelli Trulala
+Te Te Te Sahur
+Rhino Helicopterino
+Magi Ribbitini
+Tracoducotulu Delapeladustuz
+Jingle Jingle Sahur
+Los Noobinis
+Spongini Quackini
+Cachorrito Melonito
+Carloo
+Elefanto Frigo
+Carrotini Brainini
+Centrucci Nuclucci
+Toiletto Focaccino
+Jacko Spaventosa
+Bananito Bandito
+Tree Tree Tree Sahur
+Fizzy Soda
+RARITY=BRAINROT GOD
+Cocofanto Elefanto
+Antonio
+Girafa Celestre
+Gattatino Nyanino
+Chihuanini Taconini
+Tralalero Tralala
+Matteo
+Los Crocodillitos
+Tigroligre Frutonni
+Money Money Man
+Espresso Signora
+Unclito Samito
+Odin Din Din Dun
+Tipi Topi Taco
+Alessio
+Orcalero Orcala
+Tralalita Tralala
+Tukanno Bananno
+Extinct Ballerina
+Vampira Cappucina
+Trenostruzzo Turbo 3000
+Urubini Flamenguini
+Jacko Jack Jack
+Capi Taco
+Los Chihuaninis
+Gattito Tacoto
+Trippi Troppi Troppa Trippa
+Las Capuchinas
+Ballerino Lololo
+Bulbito Bandito Traktorito
+Los Tungtungtungcitos
+Pakrahmatmamat
+Ballerina Peppermintina
+Los Bombinitos
+Brr es Teh Patipum
+Bombardini Tortinii
+Pakrahmatmatina
+Piccione Macchina
+Tractoro Dinosauro
+Crabbo Limonetta
+Los Orcalitos
+Orcalita Orcala
+Cacasito Satalito
+Aquanaut
+Corn Corn Corn Sahur
+Mummy Ambalabu
+Squalanana
+Tartaruga Cisterna
+Snailenzo
+Dug dug dug
+Ginger Globo
+Yeti Claus
+Granchiello Spiritell
+Tootini Shrimpini
+Los Tipi Tacos
+Frio Ninja
+Buho de Noelo
+Piccionetta Macchina
+Boba Panda
+Los Gattitos
+Mastodontico Telepiedone
+Bambu Bambu Sahur
+Chrismasmamat
+Anpali Babel
+Noo La Polizia
+Luv Luv Luv
+Cappuccino Clownino
+Brasilini Berimbini
+Skull Skull Skull
+Belula Beluga
+Krupuk Pagi Pagi
+Cocoa Assassino
+Tentacolo Tecnico
+Ginger Cisterna
+Pandanini Frostini
+Dolphini Jetskini
+Pop Pop Sahur
+Karkerheart Luvkur
+RARITY=SECRET
+Los Matteos
+Karkerkar Kurkur
+La Vacca Saturno Saturnita
+Bisonte Giuppitere
+Trenostruzzo Turbo 4000
+Jackorilla
+Sammyni Spyderini
+Torrtuginni Dragonfrutini
+Dul Dul Dul
+Blackhole Goat
+Chachechi
+Agarrini la Palini
+Los Spyderinis
+Extinct Tralalero
+Fragola La La La
+La Cucaracha
+Zombie Tralala
+Los Tortus
+Los Tralaleritos
+Vulturino Skeletono
+Boatito Auratito
+Guerriro Digitale
+Yess my examine
+La Vacca Prese Presente
+La Karkerkar Combinasion
+Reindeer Tralala
+Extinct Matteo
+Las Tralaleritas
+Rocco Disco
+Pumpkini Spyderini
+Job Job Job Sahur
+Los Trios
+Frankentteo
+Karker Sahur
+Los Karkeritos
+Las Vaquitas Saturnitas
+Santteo
+La Vacca Jacko Linterino
+Triplito Tralaleritos
+Trickolino
+GOAT
+Giftini Spyderini
+Perrito Burrito
+Graipuss Medussi
+Love Love Love Sahur
+1x1x1x1
+Los Cucarachas
+Please my Present
+Cuadramat and Pakrahmatmamat
+Bunnyman
+Tung Tung Tung Sahur
+Los Jobcitos
+Nooo My Hotspot
+Noo my examine
+List List List Sahur
+Telemorte
+La Sahur Combinasion
+To to to Sahur
+25
+Pot Hotspot
+Pirulitoita Bicicleteira
+Santa Hotspot
+Horegini Boom
+Bunito Bunito Spinito
+Pot Pumpkin
+Quesadilla Crocodila
+Naughty Naughty
+Cupid Cupid Sahur
+Ho Ho Ho Sahur
+Mi Gatito
+Cupid Hotspot
+Chicleteira Bicicleteira
+Brunito Marsito
+Quesadillo Vampiro
+Burrito Bandito
+Chicleteirina Bicicleteirina
+Chill Puppy
+Los Quesadillas
+Noo my Candy
+Arcadopus
+Los Nooo My Hotspotsitos
+Rang Ring Bus
+Noo my Present
+Los Mi Gatitos
+Guest 666
+Los Chicleteiras
+67
+Donkeyturbo Express
+Los Burritos
+Los 25
+La Grande Combinasion
+Mariachi Corazoni
+Swag Soda
+Noo my Heart
+Chimnino
+Chicleteira Noelteira
+Los Combinasionas
+Nuclearo Dinossauro
+Fishino Clownino
+Tacorita Bicicleta
+Los Sweethearts
+Spinny Hammy
+Las Sis
+Chicleteira Cupideira
+Los Planitos
+Los Spooky Combinasionas
+Los Jolly Combinasionas
+Los Hotspotsitos
+Money Money Puggy
+Los Mobilis
+Celularcini Viciosini
+Los 67
+Los Candies
+La Extinct Grande
+Bacuru and Egguru
+Los Bros
+La Spooky Grande
+Chillin Chili
+Chipso and Queso
+Money Money Reindeer
+Mieteteira Bicicleteira
+Tuff Toucan
+Tralaledon
+Gobblino Uniciclino
+Los Puggies
+Esok Sekolah
+La Jolly Grande
+W or L
+Los Primos
+Eviledon
+Los Tacoritas
+Lovin Rose
+Tang Tang Keletang
+Ketupat Kepat
+La Taco Combinasion
+Tictac Sahur
+Orcaledon
+Swaggy Bros
+La Romantic Grande
+Ketchuru and Musturu
+Lavadorito Spinito
+Jolly Jolly Sahur
+Garama and Madundung
+Rosetti Tualetti
+Spaghetti Tualetti
+Festive 67
+Los Spaghettis
+Ginger Gerat
+La Ginger Sekolah
+Spooky and Pumpky
+La Casa Boo
+Fragrama and Chocrama
+La Secret Combinasion
+Love Love Bear
+Reinito Sleighito
+Ketupat Bros
+Burguro And Fryuro
+Cooki and Milki
+Capitano Moby
+Rosey and Teddy
+Popcuru and Fizzuru
+Cerberus
+La Supreme Combinasion
+Dragon Cannelloni
+Dragon Gingerini
+Hydra Dragon Cannelloni
+RARITY=OG
+Skibidi Toilet
+Headless Horseman
+Meowl
+Strawberry Elephant

@@ -1,0 +1,172 @@
+TITLE=GALAXY
+REQUIRES=123
+RARITY=COMMON
+Noobini Pizzanini
+Lirili Larila
+Tim Cheese
+Fluriflura
+Talpa Di Fero
+Svinina Bombardino
+Raccooni Jandelini
+Pipi Kiwi
+Pipi Corni
+RARITY=RARE
+Trippi Troppi
+Gangster Footera
+Bandito Bobritto
+Boneca Ambalabu
+Cacto Hipopotamo
+Ta Ta Ta Ta Sahur
+Tric Trac Baraboom
+Pipi Avocado
+RARITY=EPIC
+Cappuccino Assassino
+Bandito Axolito
+Brr Brr Patapim
+Avocadini Antilopini
+Trulimero Trulicina
+Bambini Crostini
+Malame Amarele
+Bananita Dolphinita
+Perochello Lemonchello
+Brri Brri Bicus Dicus Bombicus
+Ti Ti Ti Sahur
+Avocadini Guffo
+Mangolini Parrocini
+Salamino Penguino
+Penguino Cocosino
+RARITY=LEGENDARY
+Burbaloni Loliloli
+Chimpanzini Bananini
+Tirilikalika Tirilikalako
+Ballerina Cappuccina
+Chef Crabracadabra
+Lionel Cactuseli
+Glorbo Fruttodrillo
+Quivioli Ameleonni
+Blueberrinni Octopusini
+Caramello Filtrello
+Pipi Potato
+Strawberrelli Flamingelli
+Cocosini Mama
+Pandaccini Bananini
+Pi Pi Watermelon
+Signore Carapace
+Sigma Boy
+RARITY=MYTHIC
+Frigo Camelo
+Orangutini Ananassini
+Rhino Toasterino
+Bombardiro Crocodilo
+Brutto Gialutto
+Spioniro Golubiro
+Bombombini Gusini
+Zibra Zubra Zibralini
+Tigrilini Watermelini
+Avocadorilla
+Cavallo Virtuoso
+Gorillo Subwoofero
+Gorillo Watermelondrillo
+Tob Tobi Tobi
+Lerulerulerule
+Ganganzelli Trulala
+Te Te Te Sahur
+Rhino Helicopterino
+Tracoducotulu Delapeladustuz
+Los Noobinis
+Carloo
+Carrotini Brainini
+RARITY=BRAINROT GOD
+Cocofanto Elefanto
+Antonio
+Girafa Celestre
+Gattatino Nyanino
+Chihuanini Taconini
+Tralalero Tralala
+Matteo
+Los Crocodillitos
+Tigroligre Frutonni
+Espresso Signora
+Odin Din Din Dun
+Tipi Topi Taco
+Unclito Samito
+Alessio
+Tukanno Bananno
+Tralalita Tralala
+Orcalero Orcala
+Extinct Ballerina
+Trenostruzzo Turbo 3000
+Urubini Flamenguini
+Capi Taco
+Gattito Tacoto
+Trippi Troppi Troppa Trippa
+Las Capuchinas
+Ballerino Lololo
+Bulbito Bandito Traktorito
+Los Tungtungtungcitos
+Pakrahmatmamat
+Los Bombinitos
+Bombardini Tortinii
+Brr es Teh Patipum
+Piccione Macchina
+Tractoro Dinosauro
+Crabbo Limonetta
+Los Orcalitos
+Orcalita Orcala
+Cacasito Satalito
+Tartaruga Cisterna
+Los Tipi Tacos
+Piccionetta Macchina
+Mastodontico Telepiedone
+Anpali Babel
+Belula Beluga
+RARITY=SECRET
+Bisonte Giuppitere
+Karkerkar Kurkur
+La Vacca Saturno Saturnita
+Los Matteos
+Trenostruzzo Turbo 4000
+Sammyni Spyderini
+Torrtuginni Dragonfrutini
+Dul Dul Dul
+Blackhole Goat
+Chachechi
+Agarrini la Palini
+Los Spyderinis
+Fragola La La La
+Extinct Tralalero
+Los Tralaleritos
+Guerriro Digitale
+La Karkerkar Combinasion
+Extinct Matteo
+Las Tralaleritas
+Job Job Job Sahur
+Las Vaquitas Saturnitas
+Graipuss Medussi
+Nooo My Hotspot
+La Sahur Combinasion
+Pot Hotspot
+Quesadilla Crocodila
+Chicleteira Bicicleteira
+Los Nooo My Hotspotsitos
+Los Chicleteiras
+67
+La Grande Combinasion
+Nuclearo Dinossauro
+Los Combinasionas
+Tacorita Bicicleta
+Las Sis
+Los Hotspotsitos
+Celularcini Viciosini
+La Extinct Grande
+Los Bros
+Tralaledon
+Esok Sekolah
+Ketupat Kepat
+La Supreme Combinasion
+Ketchuru and Musturu
+Garama and Madundung
+Spaghetti Tualetti
+Dragon Cannelloni
+RARITY=OG
+Strawberry Elephant

@@ -1,0 +1,37 @@
+TITLE=AQUATIC
+REQUIRES=23
+RARITY=COMMON
+
+RARITY=RARE
+Trippi Troppi
+RARITY=EPIC
+Trulimero Trulicina
+Bananita Dolphinita
+RARITY=LEGENDARY
+Blueberrinni Octopusini
+RARITY=MYTHIC
+
+RARITY=BRAINROT GOD
+Tralalero Tralala
+Orcalero Orcala
+Tralalita Tralala
+Trippi Troppi Troppa Trippa
+Crabbo Limonetta
+Los Orcalitos
+Orcalita Orcala
+Squalanana
+Belula Beluga
+Tentacolo Tecnico
+RARITY=SECRET
+Extinct Tralalero
+Zombie Tralala
+Los Tralaleritos
+Boatito Auratito
+Las Tralaleritas
+Graipuss Medussi
+Tralaledon
+Los Primos
+Eviledon
+Orcaledon
+Capitano Moby
+RARITY=OG

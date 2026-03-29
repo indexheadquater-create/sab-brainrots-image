@@ -1,0 +1,51 @@
+TITLE=CHRISTMAS
+REQUIRES=36
+RARITY=COMMON
+Noobini Santanini
+RARITY=RARE
+Frogo Elfo
+RARITY=EPIC
+Penguin Tree
+RARITY=LEGENDARY
+Chocco Bunny
+Sealo Regalo
+RARITY=MYTHIC
+Jingle Jingle Sahur
+Tree Tree Tree Sahur
+RARITY=BRAINROT GOD
+Ballerina Peppermintina
+Ginger Globo
+Yeti Claus
+Buho de Noelo
+Chrismasmamat
+Cocoa Assassino
+Ginger Cisterna
+Pandanini Frostini
+RARITY=SECRET
+Reindeer Tralala
+La Vacca Prese Presente
+Santteo
+Triplito Tralaleritos
+Please my Present
+Bunnyman
+List List List Sahur
+25
+Santa Hotspot
+Naughty Naughty
+Ho Ho Ho Sahur
+Noo my Present
+Donkeyturbo Express
+Los 25
+Chimnino
+Chicleteira Noelteira
+Los Jolly Combinasionas
+Los Candies
+Money Money Reindeer
+La Jolly Grande
+Jolly Jolly Sahur
+Ginger Gerat
+La Ginger Sekolah
+Reinito Sleighito
+Cooki and Milki
+Dragon Gingerini
+RARITY=OG

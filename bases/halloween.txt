@@ -1,0 +1,43 @@
+TITLE=HALLOWEEN
+REQUIRES=25
+RARITY=COMMON
+Tartaragno
+RARITY=RARE
+Pinealotto Fruttarino
+RARITY=EPIC
+Frogato Pirato
+Mummio Rappitto
+RARITY=LEGENDARY
+Quackula
+Buho de Fuego
+RARITY=MYTHIC
+Magi Ribbitini
+Jacko Spaventosa
+RARITY=BRAINROT GOD
+Jacko Jack Jack
+Mummy Ambalabu
+Snailenzo
+Cappuccino Clownino
+Skull Skull Skull
+Tentacolo Tecnico
+RARITY=SECRET
+Jackorilla
+Zombie Tralala
+Vulturino Skeletono
+Pumpkini Spyderini
+Frankentteo
+La Vacca Jacko Linterino
+Trickolino
+Telemorte
+Pot Pumpkin
+Quesadillo Vampiro
+Noo my Candy
+Los Spooky Combinasionas
+Los Mobilis
+La Spooky Grande
+Mieteteira Bicicleteira
+Eviledon
+Spooky and Pumpky
+La Casa Boo
+RARITY=OG
+Headless Horseman

@@ -1,0 +1,107 @@
+TITLE=LAVA
+REQUIRES=82
+RARITY=COMMON
+Noobini Pizzanini
+Lirili Larila
+Tim Cheese
+Fluriflura
+Talpa Di Fero
+Svinina Bombardino
+Pipi Kiwi
+Pipi Corni
+RARITY=RARE
+Trippi Troppi
+Gangster Footera
+Bandito Bobritto
+Boneca Ambalabu
+Cacto Hipopotamo
+Ta Ta Ta Ta Sahur
+Tric Trac Baraboom
+Pipi Avocado
+RARITY=EPIC
+Cappuccino Assassino
+Brr Brr Patapim
+Trulimero Trulicina
+Bambini Crostini
+Bananita Dolphinita
+Perochello Lemonchello
+Brri Brri Bicus Dicus Bombicus
+Ti Ti Ti Sahur
+Avocadini Guffo
+Salamino Penguino
+Penguino Cocosino
+RARITY=LEGENDARY
+Burbaloni Loliloli
+Chimpanzini Bananini
+Ballerina Cappuccina
+Chef Crabracadabra
+Lionel Cactuseli
+Glorbo Fruttodrillo
+Blueberrinni Octopusini
+Strawberrelli Flamingelli
+Cocosini Mama
+Pandaccini Bananini
+Pi Pi Watermelon
+Sigma Boy
+RARITY=MYTHIC
+Frigo Camelo
+Orangutini Ananassini
+Rhino Toasterino
+Bombardiro Crocodilo
+Spioniro Golubiro
+Bombombini Gusini
+Zibra Zubra Zibralini
+Tigrilini Watermelini
+Avocadorilla
+Cavallo Virtuoso
+Gorillo Watermelondrillo
+Tob Tobi Tobi
+Ganganzelli Trulala
+Te Te Te Sahur
+Tracoducotulu Delapeladustuz
+RARITY=BRAINROT GOD
+Cocofanto Elefanto
+Girafa Celestre
+Gattatino Nyanino
+Tralalero Tralala
+Matteo
+Los Crocodillitos
+Tigroligre Frutonni
+Espresso Signora
+Odin Din Din Dun
+Tipi Topi Taco
+Unclito Samito
+Tukanno Bananno
+Tralalita Tralala
+Orcalero Orcala
+Trenostruzzo Turbo 3000
+Urubini Flamenguini
+Trippi Troppi Troppa Trippa
+Ballerino Lololo
+Bulbito Bandito Traktorito
+Los Tungtungtungcitos
+Bombardini Tortinii
+Piccione Macchina
+Los Orcalitos
+RARITY=SECRET
+Karkerkar Kurkur
+La Vacca Saturno Saturnita
+Los Matteos
+Sammyni Spyderini
+Torrtuginni Dragonfrutini
+Agarrini la Palini
+Los Tralaleritos
+Las Tralaleritas
+Job Job Job Sahur
+Las Vaquitas Saturnitas
+Graipuss Medussi
+Nooo My Hotspot
+Pot Hotspot
+Chicleteira Bicicleteira
+La Grande Combinasion
+Nuclearo Dinossauro
+Los Combinasionas
+Los Hotspotsitos
+Esok Sekolah
+Garama and Madundung
+Dragon Cannelloni
